@@ -11,4 +11,3 @@
 | Unused sorting parameter | Code quality | 39 | `sortOrder` was accepted but never used. | Removed the unused parameter. |
 | Formatting violations | Style | Multiple | Missing spaces and blank lines violated Flake8 rules. | Corrected spacing and blank-line formatting. |
 
-**Note:** Line numbers refer to the original file and may vary by finding. The table should reflect the findings from your original reports.
